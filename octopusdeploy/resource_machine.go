@@ -41,6 +41,8 @@ func resourceMachine() *schema.Resource {
 								"AzureWebApp",
 								"Ftp",
 								"AzureCloudService",
+								"KubernetesHelm",
+								"KubernetesYaml",
 							}),
 						},
 
